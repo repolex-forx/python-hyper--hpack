@@ -1,0 +1,11 @@
+{
+  "org": "python-hyper",
+  "repo": "hpack",
+  "versions": [
+    {
+      "commit": "c2edbee3b5508e0b1689877fe6f173eafb097aef",
+      "tag": "",
+      "parsed_at": "2026-10-12T01:21:06.488836+00:00"
+    }
+  ]
+}
