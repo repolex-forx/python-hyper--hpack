@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/hpack/commit/c2edbee3b5508e0b1689877fe6f173eafb097aef",
       "git:hexsha": "c2edbee3b5508e0b1689877fe6f173eafb097aef",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/hpack/commit/fc618368a4b0c56a6bcce776787fc21cacbb5b10",
